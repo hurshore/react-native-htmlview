@@ -1,6 +1,6 @@
 {
   "name": "@hurshore/react-native-htmlview",
-  "version": "0.17.0",
+  "version": "0.17.2",
   "description": "A component which renders HTML content as native views",
   "main": "index.js",
   "scripts": {
@@ -43,5 +43,6 @@
     "deprecated-react-native-prop-types": "^2.3.0",
     "entities": "^1.1.1",
     "htmlparser2-without-node-native": "^3.9.2"
-  }
+  },
+  "types": "./node_modules/@types/react-native-htmlview/index.d.ts"
 }
